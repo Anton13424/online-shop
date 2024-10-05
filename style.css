@@ -22,6 +22,9 @@
 .black {
   background-color: black;
 }
+.gray {
+  background-color: gray;
+}
 
 /* Активный класс для кнопки выбора цвета */
 .active-border {
